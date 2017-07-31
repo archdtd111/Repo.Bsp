@@ -4,4 +4,9 @@ Thankfull that is works.
 Yeah i uploaded the new version of 'GudeHessen' on Github.
 Let's check this once again.
 
+<<<<<<< HEAD
 Hey i modified the GudeHessen file.
+=======
+Let's see if the modification which i want to do on the other branch, called 
+'another-branch', can be seen on the master branch.
+>>>>>>> another-branch
