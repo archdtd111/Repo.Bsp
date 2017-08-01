@@ -3,3 +3,7 @@ This file was created in the branch 'another-branch'
 Problem. None of the branches can track this file.
 
 Mal wieder versuche ich hier die Kacke über die another-branch zu probiern.
+
+So jetzt wird aber ein anderer Branch hinzugefügt. Auch auf dem branch in Github.
+Es wird auf another-branch gewechselt, eine Änderung in ServusBayern vollzogen (wird
+gerade ausgeführt) und dann gemerged. Also wird der commit gepushed bevor er gemerged wird.
