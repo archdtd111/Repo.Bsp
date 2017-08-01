@@ -1,0 +1,5 @@
+Haha ok. 
+Also wenn man eine Datei bei git erstellt mit $ git touch und an das Ende des Dateinamens 
+zB ein .txt setzt, wird eine Textdatei erstellt.
+Also um der Datei zu sagen, was es für eine werden soll, nach den Namen einen Punkt und dann die
+Dateiart.
