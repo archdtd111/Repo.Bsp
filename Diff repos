@@ -1,1 +1,8 @@
 Habe paar Dateien lokal gelöscht und jetzt funktioniert der push nicht mehr ... git log gibt auch fehlerhafte Auskunft über commtis
+
+
+
+
+Gut alles geklont und runtergeladen. 
+Diese Datei ist jetzt ja verändert und ich versuche diese wieder zu pushen.
+Läuft ja alles über den branch master also sollte es auch funktionieren.
